@@ -1,4 +1,7 @@
-#from IPython.display import clear_output
+# This program only runs in IPython,  Juyper Notebook is the best way to do it
+
+
+from IPython.display import clear_output
 
 
 def display_board(board):
