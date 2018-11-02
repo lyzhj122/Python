@@ -1,3 +1,5 @@
+# This demo shows how to make interactive widgets and show them on plot
+
 import ipywidgets as widgets
 from IPython.display import display
 import matplotlib.pyplot as plt
