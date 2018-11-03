@@ -34,6 +34,7 @@ mystr = 'Test'
 # Jackzh made this
 # Jessica change it
 mystr = 'Jessica 2nd change'
+mystr = 'Jessica 3rd change'
 
 
 widgets.interactive(update_plot, amp=amp, phase=phase, freq=freq)
