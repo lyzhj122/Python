@@ -32,7 +32,7 @@ freq = widgets.FloatSlider(min=1, max=10, value=1, description='Freq:')
 
 mystr = 'Test'
 # Jackzh made this
-mystr = 'Jessica'
+mystr = 'Jessica Change it'
 
 
 widgets.interactive(update_plot, amp=amp, phase=phase, freq=freq)
