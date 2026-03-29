@@ -24,6 +24,7 @@ def update_plot(amp, phase, freq):
     ax.legend(loc=1)
     ax.set_xlabel('$(s)$')
     plt.show()
+    
 
 
 amp = widgets.FloatSlider(min=1, max=10, value=1, description='Amp:')

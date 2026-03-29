@@ -52,6 +52,7 @@ def there_is_space(board):
     else:
         return False
 
+## new change
 
 def check_poistion(board):
     poistion = 0
