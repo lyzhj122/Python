@@ -25,7 +25,7 @@ def update_plot(amp, phase, freq):
     ax.set_xlabel('$(s)$')
     plt.show()
     
-
+## this test git
 
 amp = widgets.FloatSlider(min=1, max=10, value=1, description='Amp:')
 phase = widgets.FloatSlider(min=0, max=5, value=0, description='Phase:')
